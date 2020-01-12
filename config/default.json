@@ -1,0 +1,4 @@
+{
+  "mongoURL": "mongodb+srv://myown:myown@cluster0-pwkcl.mongodb.net/test?retryWrites=true&w=majority",
+  "secret": "mynewsecret"
+}

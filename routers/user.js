@@ -17,7 +17,7 @@ router.post("/users", async (req, res) => {
   }
 });
 
-// login user
+// login user..
 router.post("/users/login", async (req, res) => {
   try {
     const user = await User.credentials(req.body.email, req.body.password);
